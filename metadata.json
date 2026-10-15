@@ -1,0 +1,6 @@
+{
+  "name": "NovaDesk - Customer FAQ AI Assistant",
+  "description": "Smart customer support FAQ chatbot and knowledge base hub with live AI answers, ticket escalation, and customizable knowledge base.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

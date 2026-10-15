@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@utility text-2xs {
+  font-size: 0.6875rem;
+  line-height: 0.95rem;
+}
